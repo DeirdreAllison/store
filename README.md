@@ -4,6 +4,4 @@ Practiced using Zurb Foundation based on RailsCast #417. I experienced some prob
 to work however it was fun to experiment with Foundation! I styled the navigation bar,
 adjusted the form and experimented with column layouts.
 
-Also practiced Rails authentication from scratch based on
-RailsCast #250. Authentication isn't working quite right
-based on strong parameter changes between Rails 3.2 and 4.
+License: MIT [http://deirdre.mit-license.org/](http://deirdre.mit-license.org/)
