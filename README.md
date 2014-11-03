@@ -1,4 +1,4 @@
-== Using Zurb Foundation
+#Using Zurb Foundation
 
 Practiced using Zurb Foundation based on RailsCast #417. I experienced some problems getting it
 to work however it was fun to experiment with Foundation! I styled the navigation bar,
